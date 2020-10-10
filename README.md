@@ -10,7 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
-* The template takes the strengh of Handlebar templating scheme combined with gulp sass automated tasks.
+* The template takes the strength of Handlebar templating scheme combined with gulp sass automated tasks.
 + To Build do the following:
   * install nodeJS any version from 5.0 to 6.9.2 (https://nodejs.org/en/)
   * open "node.js command prompt"
