@@ -141,9 +141,6 @@
   "scripts": {
     "gulp": "gulp",
     "preinstall": "npm cache clean --force",
-    "install": "npm install",
-    "build": "guld build",
-    "prestart": "rm -rf node_modules package-lock.json",
     "start": "npm run gulp"
   },
   "browserslist": [
