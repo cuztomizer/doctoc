@@ -109,7 +109,7 @@
   },
   "scripts": {
     "gulp": "gulp",
-    "start": "npm run gulp"
+    "start": "gulp build"
   },
   "browserslist": [
     "last 2 versions",
