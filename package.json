@@ -141,7 +141,7 @@
   "scripts": {
     "gulp": "gulp",
     "preinstall": "npm cache clean --force",
-    "start": "npm gulp build"
+    "start": "gulp build"
   },
   "browserslist": [
     "last 2 versions",
